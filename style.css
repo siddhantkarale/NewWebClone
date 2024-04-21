@@ -986,7 +986,7 @@
 
 } 
 
-@media (max-width: 640px) {
+@media (max-width: 700px) {
 
     #trainerinfoouter{
         height: 450px;
@@ -1005,7 +1005,7 @@
    
 }
 
-@media (max-width: 440px) {
+@media (max-width: 478px) {
 
     .dropbtn{
         width: 300px;
@@ -1019,15 +1019,15 @@
    
 }
 
-@media (max-width: 748px) {
+@media (max-width: 330px) {
 
-    /* .dropdown-content a{
-        width: 550px;
+    .dropdown-content a{
+        width: 250px;
     }
 
     .dropbtn{
-        width: 550px;
-    } */
+        width: 250px;
+    }
 
 
    
