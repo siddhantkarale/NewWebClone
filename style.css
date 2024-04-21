@@ -1049,4 +1049,27 @@
 } 
 
 
+.tickbg{
+    background-color: rgba(31, 173, 142, .1);
+    height: 40px; 
+    border-radius: 10px;
+}
+
+.tickbg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tickboxtitle{
+    background: -webkit-linear-gradient(137deg, #2cc696, #0a8782);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.tickfont{
+    font-size: 14px;
+}
+
+
 
